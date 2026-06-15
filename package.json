@@ -1,0 +1,17 @@
+{
+  "name": "com.grruzam.dualblade.animation",
+  "displayName": "Grruzam Dual Blade Animation",
+  "version": "1.0.0",
+  "description": "Dual Blade humanoid animation source pack by Grruzam: movements, attack/combo trees, skills and damage reactions as FBX clips, plus an Animator controller, character/weapon models, avatar mask and a sample scene.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Grruzam"
+  },
+  "keywords": [
+    "animation",
+    "humanoid",
+    "dualblade",
+    "combat",
+    "fbx"
+  ]
+}
